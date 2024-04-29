@@ -9,20 +9,12 @@ sayHello();
 //Ejercicio 1
 
 function sumar (num1, num2) {
-    let sumar = num1 + num2
-    console.log ("El resultado es", sumar )
+
+    console.log ("El resultado es", num1 + num2 )
     }
     
     sumar(2,3);
     
-//Ejercicio 2
-
-function esPar(num) {
-  let num =  prompt ("Inserta un numero")
-  
-    
-}
-
-//Ejercicio 3
+// Ejercicio 2 no he podido continuar. creo que no tengo conocimientos necesarios.
 
 

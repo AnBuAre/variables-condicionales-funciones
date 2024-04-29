@@ -1,4 +1,4 @@
-console.log("ejercicio1")
+console.log ("ejercicio 1")
 
 let km = prompt ("kilometros");
 
@@ -15,8 +15,7 @@ let velocidad = km / horas
     console.log ("Estás descalificado")
  ]
 
-
- //Ejercicio 2 
+console.log("Ejercicio 2")
 
  let nota1= prompt ("ingresa primera nota");
  let nota2= prompt ("ingresa segunda nota");
@@ -36,7 +35,7 @@ if (notapromedio <4)[
   console.log ("SUSPENDIDO")
 ]
 
-//Ejercicio 3 
+console.log ("Ejercicio 3")
 
 let cliente = prompt ("bebidas");
 let vino = cliente === "vino";
@@ -51,7 +50,7 @@ else (refresco,agua)[
   console.log ( "barra comida")
 ]
 
-//Ejercicio 4 
+console.log ("ejercicio 4")
 
 let numero1= prompt ("Ingrese el numero");
 let numero2= prompt ("Ingrese el numero");
